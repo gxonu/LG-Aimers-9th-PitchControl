@@ -1,6 +1,6 @@
 # KBO 투구 제구 성공 확률 예측
 
-**LG Aimers 9기 · [DACON 236743](https://dacon.io/competitions/official/236743/overview/description)** &nbsp;|&nbsp; **Public LB 1,149.33 — 88위 / 2,403명 (상위 3.7%)**
+**LG Aimers 9기 · [DACON 236743](https://dacon.io/competitions/official/236743/overview/description)** &nbsp;|&nbsp; **Public LB 1,149.33 — 88위 / 2,403명 (상위 3.66%)**
 
 ![pipeline](assets/pipeline.svg)
 
