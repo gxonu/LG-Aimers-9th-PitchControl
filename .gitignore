@@ -1,0 +1,18 @@
+# 대회 데이터·제출물은 약관상 공개 금지
+data/
+*.csv
+*.parquet
+*.zip
+submissions/
+
+# 모델·캐시
+*.npz
+*.cbm
+*.joblib
+catboost_info/
+__pycache__/
+*.pyc
+
+# 비밀
+.secrets/
+*.env
